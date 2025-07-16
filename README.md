@@ -1,6 +1,6 @@
 # .NET 10 Performance Regression Repro
 
-A benchmark demonstrating a performance regression with .NET 10
+A benchmark demonstrating [a performance regression with .NET 10](https://github.com/dotnet/runtime/issues/117717).
 
 To run the benchmark, run the following commands from the root of the repository:
 
